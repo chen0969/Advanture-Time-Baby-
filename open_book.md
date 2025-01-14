@@ -3,3 +3,5 @@ Emma opened the book and discovered that it was enchanted! A glowing map appeare
 What will Emma do next?
 
 [Close the book and go back to the start](./intro.md)
+
+* ## [Emma clicks the map](./click_the_map.md)
