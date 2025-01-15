@@ -2,4 +2,5 @@ Emma leans in, carefully observing the book. The runes shimmer and shift as if a
 
 Is the book trying to tell her something?
 
-[Go back to the start](intro.md)
+[she continue looking for another book](intro.md)
+[open the book](./open_book.md)
